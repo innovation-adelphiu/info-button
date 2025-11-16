@@ -87,6 +87,7 @@ var STYLE = `
   z-index: 99999; 
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-weight: bold;
+  color: #000000;
   display: flex; align-items: center; justify-content: center; text-align: center;
 }
 
